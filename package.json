@@ -1,0 +1,11 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "Welcome to my Facebook Clone which emulates the features present in the Facebook app version 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
