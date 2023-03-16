@@ -1,4 +1,4 @@
-Welcome to my Facebook Clone which emulates the features present in the Facebook app version 2022
+Welcome to my Facebook Clone which emulates the features present in the Facebook app version 2022, built using MERN Stack
 
 Features: Sign-up/Login + Email Authentication, Password Reset, Profile, Friends, 
 Create Posts + Reactions (emojis) + Comments, Live Search + Search History, Dark-Mode
